@@ -2,7 +2,7 @@
 This is an ISO-ES keymap for DZ60. ISO Standard.
 
 Esc acts as ºª\ when either Fn or GUI are held.
-Mouse emulation in letters IJKL, Mouse Left Button V, Mouse Right Button B.
+Mouse emulation in Function Layer, letters IJKL, Mouse Left Button V, Mouse Right Button B.
 
 Based onto ISO-UK Layout.
 
