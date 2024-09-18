@@ -1,3 +1,0 @@
-Mods: 8a8a8a
-Spec: cc8c18
-Ctrl: 04baba
